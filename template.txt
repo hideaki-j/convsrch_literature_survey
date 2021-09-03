@@ -1,9 +1,9 @@
 Title
 =========
-## Authors
-
-## Contribution Summary
+## Contribution summary
 [Author] did [Method] to solve [Motivation] and found [Insight]
+
+## Authors
 
 ## Motivation
 Existing method is/has/uses ...
