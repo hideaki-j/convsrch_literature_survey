@@ -1,7 +1,7 @@
 Conversational Search Literature Survey
 =============
 
-- Papers are summarized with [TAMMIC method](https://iis-lab.org/misc/paperreading/), proposed by and used in [IIS Lab, University of Tokyo](https://iis-lab.org/).
+- Papers are summarized with simpler version of [TAMMIC method](https://iis-lab.org/misc/paperreading/), proposed by and used in [IIS Lab, University of Tokyo](https://iis-lab.org/).
 - Summaries are registered in [Issues](https://github.com/hideaki-j/convsrch_literature_survey/issues).
 
 ## Paper list
