@@ -4,7 +4,9 @@ Title
 ## In a nutshell
 
 ## Background
+Previous method is/has/uses ...
 
 ## Proposed
+Proposed method is/has/uses ...
 
 ## Results
