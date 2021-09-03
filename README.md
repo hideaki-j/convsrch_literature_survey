@@ -1,7 +1,8 @@
 Conversational Search Literature Survey
 =============
 
-Summaries are registered in [Issues](https://github.com/hideaki-j/convsrch_literature_survey/issues).
+- Summaries are registered in [Issues](https://github.com/hideaki-j/convsrch_literature_survey/issues).
+- Papers are summarized with [TAMMIC method](https://iis-lab.org/misc/paperreading/), proposed by and used in IIS Lab, University of Tokyo.
 
 ## Paper list
 |    | Title (Click to open the summary) | Tag | 
