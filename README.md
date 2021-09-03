@@ -1,7 +1,7 @@
 Conversational Search Literature Survey
 =============
 
-- Summarize the paper with (the simpler version of) [TAMMIC](https://iis-lab.org/misc/paperreading/)
+- Papers are summarized with (the simpler version of) [TAMMIC](https://iis-lab.org/misc/paperreading/)
   - TAMMIC: **T**itle, **A**uthors, **M**otivation, **M**ethod, **I**nsight (Results), and **C**ontribution summary
 - Summaries are registered in [Issues](https://github.com/hideaki-j/convsrch_literature_survey/issues).
 
