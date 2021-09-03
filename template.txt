@@ -3,10 +3,10 @@ Title
 
 ## In a nutshell
 
-## Background
-Previous method is/has/uses ...
+## Motivation
+Existing method is/has/uses ...
 
-## Proposed
+## Proposed Method
 Proposed method is/has/uses ...
 
 ## Results
