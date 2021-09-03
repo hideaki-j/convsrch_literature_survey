@@ -1,7 +1,7 @@
 Conversational Search Literature Survey
 =============
 
-Summaries regsitered in "Issues".
+Summaries regsitered in [Issues](https://github.com/hideaki-j/convsrch_literature_survey/issues).
 
 ## Paper list
 |    | Title (Link is to the summary) | Tag | 
