@@ -1,8 +1,10 @@
 Conversational Search Literature Survey
 =============
 
+Summaries regsitered in "Issues".
+
 ## Paper list
-|    | Title | Tag | 
+|    | Title (Link is to the summary) | Tag | 
 | -- | ------- | ----|
 | #2 | [Personal Knowledge Base Construction from Text-based Lifelogs (SIGIR19)](https://github.com/hideaki-j/convsrch_literature_survey/issues/2) | PKG |
 | #1 | [Coreference Resolution without Span Representations (ACL21)](https://github.com/hideaki-j/convsrch_literature_survey/issues/1) | coref | 
