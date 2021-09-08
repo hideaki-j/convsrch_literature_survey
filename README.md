@@ -13,7 +13,7 @@ Conversational Search Literature Survey
 
 |    | Title (Click to open the summary) | Tag | 
 | -- | ------- | ----|
-| #6 | [🤷 Joint Detection and Coreference Resolution of Entities and Events with Document-level Context Aggregation (ACL21 SRW)](https://github.com/hideaki-j/convsrch_literature_survey/issues/6) | coref |
+| #6 | [🤔 Joint Detection and Coreference Resolution of Entities and Events with Document-level Context Aggregation (ACL21 SRW)](https://github.com/hideaki-j/convsrch_literature_survey/issues/6) | coref |
 | #5 | [🚧 Asking Clarification Questions in Knowledge-Based Question Answering (EMNLP-IJCNLP19)](https://github.com/hideaki-j/convsrch_literature_survey/issues/5) | CLQ |
 | #4 | [🚧 BERT with History Answer Embedding for Conversational Question Answering (SIGIR19)](https://github.com/hideaki-j/convsrch_literature_survey/issues/4) | CQA |
 | #3 | [Learn to Resolve Conversational Dependency: A Consistency Training Framework for Conversational Question Answering (ACL21)](https://github.com/hideaki-j/convsrch_literature_survey/issues/3) | CQA |
@@ -22,7 +22,7 @@ Conversational Search Literature Survey
 
 **Meaning of Emoji**
 - 🚧: Still editing
-- 🤷: Could not understand fully
+- 🤔: Could not understand fully
 
 ## Links
 - 🚧 ~~Full list: [Conversational Search Literature Survey - Google Sheets](https://docs.google.com/spreadsheets/d/1DKod-_FGt0vYQKet3f8fIrmfbAwwJhVYO9qQOvFwCC0/edit?usp=sharing)~~
