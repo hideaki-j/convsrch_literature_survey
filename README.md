@@ -11,6 +11,9 @@ Conversational Search Literature Survey
 | # | []() |  |
 -->
 
+- 🚧: Still editing
+- 🤷: Could not understand fully
+
 |    | Title (Click to open the summary) | Tag | 
 | -- | ------- | ----|
 | #6 | [🚧 Joint Detection and Coreference Resolution of Entities and Events with Document-level Context Aggregation (ACL21 SRW)](https://github.com/hideaki-j/convsrch_literature_survey/issues/6) | coref |
