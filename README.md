@@ -21,7 +21,7 @@ Conversational Search Literature Survey
 | #1 | [✅ Coreference Resolution without Span Representations (ACL21)](https://github.com/hideaki-j/convsrch_literature_survey/issues/1) | coref | 
 
 **Meaning of Emoji**
-- 1️⃣ Only finished 1st path (defined in [1])
+- 👀 Only finished 1st path (defined in [1])
 - ✅ Finished 2nd or subseqent path (defined in [1])
 - 🚧 Still editing
 - 🤔 Don't understand
