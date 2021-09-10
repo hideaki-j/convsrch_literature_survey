@@ -23,8 +23,8 @@ Conversational Search Literature Survey
 | #1 | [✅ Coreference Resolution without Span Representations (ACL21)](https://github.com/hideaki-j/convsrch_literature_survey/issues/1) | CR | 
 
 **Meaning of Emoji**
-- 👀 Completed 1st path (defined in [1])
-- ✅ Completed 2nd or subseqent path (defined in [1])
+- 👀 Completed [1st path]((https://web.stanford.edu/class/ee384m/Handouts/HowtoReadPaper.pdf))
+- ✅ Completed [2nd or subseqent path]((https://web.stanford.edu/class/ee384m/Handouts/HowtoReadPaper.pdf))
 - 🚧 Still editing
 - 🤔 Don't understand
 
@@ -33,4 +33,4 @@ Conversational Search Literature Survey
 - Twitter: https://twitter.com/convsrch_surv
 
 ## References
-- [1] [How to Read a Paper](https://web.stanford.edu/class/ee384m/Handouts/HowtoReadPaper.pdf)
+- [How to Read a Paper](https://web.stanford.edu/class/ee384m/Handouts/HowtoReadPaper.pdf)
