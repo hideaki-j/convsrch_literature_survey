@@ -13,7 +13,7 @@ Conversational Search Literature Survey
 
 |    | Title (Click to open the summary) | Tag | 
 | -- | ------- | ----|
-| #8 | [👀 BERT for Coreference Resolution: Baselines and Analysis (EMNLP19)](https://github.com/hideaki-j/convsrch_literature_survey/issues/8) | CR |
+| #8 | [✅ BERT for Coreference Resolution: Baselines and Analysis (EMNLP19)](https://github.com/hideaki-j/convsrch_literature_survey/issues/8) | CR |
 | #7 | [🚧 Complex Sequential Question Answering: Towards Learning to Converse Over Linked Question Answer Pairs with a Knowledge Graph (AAAI18)](https://github.com/hideaki-j/convsrch_literature_survey/issues/7) | CQA |
 | #6 | [🤔 Joint Detection and Coreference Resolution of Entities and Events with Document-level Context Aggregation (ACL21 SRW)](https://github.com/hideaki-j/convsrch_literature_survey/issues/6) | CR |
 | #5 | [🚧 Asking Clarification Questions in Knowledge-Based Question Answering (EMNLP-IJCNLP19)](https://github.com/hideaki-j/convsrch_literature_survey/issues/5) | CLQ |
